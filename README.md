@@ -16,11 +16,11 @@
 
 ## 🚀 About Me
 
-- 🎓 **Education**: [Your Degree], [Your University]
-- 💼 **Current Role**: [Your Job Title] at [Company/Organization]
+- 🎓 **Education**: [B.Tech], [SRM University AP]
+
 - 💡 **Interests**: AI, Machine Learning, Data Science, Full Stack Development
-- 🌏 **Location**: [Your City, Country]
-- 📫 **Contact**: [your.email@example.com]
+- 🌏 **Location**: [Bhimavaram, India]
+- 📫 **Contact**: [s.jayanthkumar12@gmail.com]
 
 ---
 
@@ -43,20 +43,14 @@
 
 ---
 
-## 💼 Work Experience
-
-- **[Your Job Title]** — _[Company Name]_
-  - [Short bullet about your job/achievements]
-- **[Previous Role]** — _[Previous Company]_
-  - [Short bullet about your responsibilities]
 
 ---
 
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/s-jayanth-kumar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:s.jayanthkumar12@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
   <a href="https://twitter.com/YOUR-TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" /></a>
 </p>
 
