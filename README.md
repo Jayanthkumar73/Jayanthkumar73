@@ -90,11 +90,7 @@ mindset: "Code is poetry, problems are puzzles to solve"
 
 ---
 
-## 🏆 GitHub Achievements
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jayanthkumar73&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
-</div>
 
 ---
 
@@ -106,7 +102,6 @@ mindset: "Code is poetry, problems are puzzles to solve"
 
 ---
 
-## 📝 Latest Projects
 
 
 
@@ -152,7 +147,7 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 ### 🎉 Thanks for stopping by!
 
-![Snake animation](https://github.com/Jayanthkumar73/Jayanthkumar73/blob/output/github-contribution-grid-snake.svg)
+
 
 **⭐ From [Jayanthkumar73](https://github.com/Jayanthkumar73) with ❤️**
 
