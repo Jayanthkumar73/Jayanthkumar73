@@ -102,34 +102,15 @@ mindset: "Code is poetry, problems are puzzles to solve"
 
 - 🔨 Building full-stack applications with modern frameworks
 - 🤖 Exploring machine learning models and their real-world applications
-- 📚 Contributing to open-source projects
-- 🎯 Enhancing my system design and cloud computing skills
 - 🧪 Experimenting with emerging technologies in AI and Web3
 
 ---
 
 ## 📝 Latest Projects
 
-<!-- You can manually add your top projects here -->
-<div align="center">
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🚀 **[Project Name 1]** | Brief description of your project | React, Node.js, MongoDB |
-| 🔥 **[Project Name 2]** | Brief description of your project | Python, TensorFlow, Flask |
-| ⚡ **[Project Name 3]** | Brief description of your project | JavaScript, Express, PostgreSQL |
 
-</div>
 
----
-
-## 📚 Recent Learning & Certifications
-
-- 🎓 Full Stack Development
-- 🎓 Machine Learning & Deep Learning
-- 🎓 Data Structures & Algorithms
-- 🎓 Cloud Computing Fundamentals
-<!-- Add your actual certifications here -->
 
 ---
 
