@@ -22,12 +22,13 @@
 ```yaml
 name: Jayanth Kumar
 education: B.Tech @ SRM University AP
+Company:Navikenz
 location: Bhimavaram, India
 current_focus: Full Stack Development & AI/ML
-learning: Advanced System Design, Cloud Architecture
 interests: [AI, Machine Learning, Data Science, Web Development]
-mindset: "Code is poetry, problems are puzzles to solve"
+
 ```
+  SDE at Navikenz
 
 🔭 I'm passionate about building scalable solutions and exploring the intersection of AI and software development. Currently diving deep into modern web technologies and machine learning frameworks.
 
